@@ -1,0 +1,581 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"chara",
+				"character"
+			],
+			[
+				"Ch",
+				"character"
+			],
+			[
+				"keyre",
+				"love.keyreleased"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"add",
+				"addActionListener"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"deb",
+				"debuggingItem"
+			],
+			[
+				"get",
+				"getDefaultMenu"
+			],
+			[
+				"global",
+				"globalMenu"
+			],
+			[
+				"Me",
+				"MenuItem"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"tab",
+				"tab"
+			],
+			[
+				"z",
+				"z-in	z-index"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"ri",
+				"rig	right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"ti",
+				"times"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 273,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "demo.lua",
+			"settings":
+			{
+				"buffer_size": 441,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Character.lua",
+			"settings":
+			{
+				"buffer_size": 745,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Stone.lua",
+			"settings":
+			{
+				"buffer_size": 240,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"package i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Davy/AppData/Roaming/Sublime Text 2/Packages/Lua Dev/Lua Dev.sublime-settings",
+		"/D/love/projects/practice/main.lua",
+		"/D/cygwin/home/Davy/.minttyrc",
+		"/D/cygwin/home/Davy/.minittyrc",
+		"/D/Davy/codes/mc/mcp751/src/minecraft/net/minecraft/src/GuiMultiplayer.java",
+		"/D/Davy/codes/mc/mcp751/src/minecraft/net/minecraft/src/EntityPlayerSP.java",
+		"/D/Davy/serv/server.properties",
+		"/D/Riot Games/League of Legends/RADS/projects/lol_air_client/releases/0.0.1.38/deploy/locale.properties",
+		"/D/Riot Games/League of Legends/RADS/solutions/lol_game_client_sln/releases/0.0.0.240/deploy/DATA/cfg/defaults/locale.cfg",
+		"/D/Riot Games/League of Legends/Config/game.cfg",
+		"/D/win8/Program Files (x86)/GarenaLoLTW/GameData/Apps/LoLTW/Game/DATA/CFG/defaults/GamePermanent_zh_TW.cfg",
+		"/D/Riot Games/League of Legends/RADS/solutions/lol_game_client_sln/releases/0.0.0.240/solutionmanifest",
+		"/D/Riot Games/League of Legends/RADS/solutions/lol_game_client_sln/releases/0.0.0.240/configurationmanifest",
+		"/D/win8/Program Files (x86)/GarenaLoLTW/GameData/Apps/LoLTW/Game/DATA/CFG/defaults/Game.cfg",
+		"/D/win8/Program Files (x86)/GarenaLoLTW/GameData/Apps/LoLTW/Air/locale.properties",
+		"/D/win8/Program Files (x86)/GarenaLoLTW/GameData/Apps/LoLTW/Air/assets/data/champions/platformAllowableSearchTags.properties",
+		"/D/win8/Program Files (x86)/GarenaLoLTW/GameData/Apps/LoLTW/Air/css/fonts.swf",
+		"/D/Riot Games/League of Legends/RADS/projects/lol_air_client/releases/0.0.1.38/deploy/preferences/global/global.properties",
+		"/D/Riot Games/League of Legends/RADS/projects/lol_air_client/releases/0.0.1.38/deploy/preferences/Davylike.properties",
+		"/D/Riot Games/League of Legends/RADS/projects/lol_air_client/releases/0.0.1.38/deploy/lol.properties",
+		"/D/Riot Games/League of Legends/RADS/projects/lol_air_client_config_na/releases/0.0.0.43/deploy/lol.properties",
+		"/C/Program Files (x86)/Garena Plus/Room/roomTW.dat",
+		"/C/Program Files (x86)/Garena Plus/garena.game.plugins/garena.game.loltw",
+		"/C/Program Files (x86)/Garena Plus/data",
+		"/D/win8/Program Files (x86)/GarenaLoLTW/GameData/Apps/LoLTW/Air/lol.properties",
+		"/D/win8/Program Files (x86)/GarenaLoLTW/GameData/Apps/LoLTW/Game/client.ver",
+		"/D/win8/Program Files (x86)/GarenaLoLTW/GameData/Apps/LoLTW/Game/Config/game.cfg",
+		"/D/win8/Program Files (x86)/RC語音8/theme/ui/ChannelView.ui",
+		"/D/win8/Program Files (x86)/RC語音8/theme/ui/ChannelOrderView.ui",
+		"/D/win8/Program Files (x86)/RC語音8/theme/ui/ChannelBaseInfo.ui",
+		"/D/win8/Program Files (x86)/RC語音8/theme/ui/MainFrame.ui",
+		"/D/win8/Program Files (x86)/RC語音8/theme/Texture.xml",
+		"/D/win8/Program Files (x86)/RC語音8/theme/ui/caption2.ui",
+		"/D/win8/Program Files (x86)/RC語音8/theme/ui/caption.ui",
+		"/D/win8/Program Files (x86)/RC語音8/theme/ui/CaptureToolWnd.ui",
+		"/D/win8/Program Files (x86)/RC語音8/theme/ui/GroupChat.ui",
+		"/D/win8/Program Files (x86)/RC語音8/theme/ui/caption3.ui",
+		"/D/win8/Program Files (x86)/RC語音8/theme/ui/IM/Group.ui",
+		"/D/win8/Program Files (x86)/RC語音8/interface.dat",
+		"/D/Davy/tmp/APK-Multi-Tool21/projects/framework-res.apk/res/values-zh-rTW/strings.xml",
+		"/D/Davy/tmp/APK-Multi-Toolex/projects/SystemUI.apk/res/values-zh-rTW/strings.xml",
+		"/D/Davy/tmp/APK-Multi-Tool21/projects/SystemUI.apk/res/values-zh-rTW/strings.xml",
+		"/D/Davy/tmp/APK-Multi-Tool21/projects/framework-res.apk/res/values-zh-rTW-mdpi/styles.xml",
+		"/D/Davy/tmp/APK-Multi-Tool21/projects/framework-res.apk/res/values-zh-rTW-mdpi/dimens.xml",
+		"/D/Davy/tmp/APK-Multi-Toolex/projects/framework-res.apk/res/values-zh-rTW/strings.xml",
+		"/D/Davy/tmp/APK-Multi-Tool21/projects/framework-res.apk/res/values-zh-rTW/plurals.xml",
+		"/D/Davy/tmp/APK-Multi-Toolex/projects/framework-res.apk/res/values-zh-rTW/plurals.xml",
+		"/D/Davy/tmp/APK-Multi-Tool21/projects/framework-res.apk/res/values-zh-rTW/arrays.xml",
+		"/D/Davy/tmp/APK-Multi-Toolex/projects/framework-res.apk/res/values-zh-rTW/arrays.xml",
+		"/D/Davy/tmp/APK-Multi-Tool21/projects/framework-res.apk/res/values-mcc232-zh-rTW/strings.xml",
+		"/D/Davy/tmp/APK-Multi-Toolex/projects/framework-res.apk/res/values-mcc230-zh-rTW/strings.xml",
+		"/D/Davy/tmp/APK-Multi-Tool21/projects/framework-res.apk/res/values-mcc204-zh-rTW/strings.xml",
+		"/D/Davy/tmp/APK-Multi-Toolex/projects/framework-res.apk/res/values-mcc204-zh-rTW/strings.xml",
+		"/D/Davy/tmp/APK-Multi-Tool21/projects/com.htc.resources.apk/res/layout-zh-rTW-mdpi/title_1.xml",
+		"/D/Davy/tmp/APK-Multi-Toolex/projects/com.htc.resources.apk/res/values-zh-rTW-hdpi/arrays.xml",
+		"/D/Davy/tmp/APK-Multi-Tool21/projects/com.htc.resources.apk/res/values-zh-rTW-mdpi/dimens.xml",
+		"/D/Davy/tmp/APK-Multi-Tool21/projects/com.htc.resources.apk/res/values-zh-rTW/arrays.xml",
+		"/D/Davy/tmp/APK-Multi-Toolex/projects/com.htc.resources.apk/res/values-zh-rTW/arrays.xml",
+		"/D/Davy/tmp/APK-Multi-Tool21/projects/com.htc.resources.apk/res/values-zh-rTW/strings.xml",
+		"/D/Davy/tmp/APK-Multi-Toolex/projects/com.htc.resources.apk/res/values-zh-rTW/strings.xml",
+		"/D/Davy/tmp/APK-Multi-Tool20/projects/com.htc.resources.apk/res/values-zh-rTW/strings.xml",
+		"/D/Davy/tmp/APK-Multi-Tool20/projects/com.htc.resources.apk/apktool.yml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/WORKING_082013_Sense21/system/framework/com.htc.resources.apk",
+		"/D/Davy/tmp/21/resources.arsc",
+		"/D/Davy/tmp/21/res/layout-zh-TW-land-mdpi/icon_menu_layout.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/framework/framework-res.apk",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/1_00_sample.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/CID/default.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/WORKING_082013_Sense21/system/customize/default.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/WORKING_082013_Sense21/system/customize/CID/default.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/CID/cidProfile2.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/CID/cidProfile1.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/CID/HTC__044.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/WORKING_082013_Sense21/system/customize/MNS/default.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/MNS/51001.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/MNS/51008.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/MNS/51010.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/MNS/51011.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/MNS/52001.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/MNS/52015.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/MNS/52018.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/MNS/52099.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/MNS/52501.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/MNS/52503.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/MNS/52505.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/MNS/50216.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/MNS/50219.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/COMMON.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/default.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/mccmnc.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/mns_map.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/cid_map.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/AAInfo.txt",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/MNS/45201.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/original_update/WORKING_061613_315WWETW2/system/customize/MNS/default.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/WORKING_082013_Sense21/system/customize/1_00_sample.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/WORKING_082013_Sense21/system/customize/cid_map.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/WORKING_082013_Sense21/system/customize/COMMON.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/WORKING_082013_Sense21/system/customize/mccmnc.xml",
+		"/D/DL/Android-Kitchen-0.223_rev9c/Android-Kitchen-0.223_rev9c/WORKING_082013_Sense21/system/customize/mns_map.xml",
+		"/D/Davy/code/vs/project/IRCLogOverlayPlugin/IRCLogOverlayPlugin/IRCLogOverlayPlugin.csproj",
+		"/D/win8/Program Files (x86)/RC語音/theme/ui/ChannelView.ui",
+		"/C/Users/Davy/AppData/Roaming/.minecraft/config/NihongoMOD.properties",
+		"/F/isolinux/isolinux.cfg",
+		"/D/Davy/codes/mc/mcp751/src/minecraft/net/minecraft/client/Minecraft.java",
+		"/E/isolinux/isolinux.cfg",
+		"/C/Users/Davy/AppData/Local/Temp/Temp1_UOT-07-26-06-16-2.zip/META-INF/com/google/android/updater-script",
+		"/E/syslinux.cfg",
+		"/D/Davy/codes/mc/mcp751/eclipse/Client/.classpath",
+		"/D/Davy/codes/mc/mcp751/eclipse/Client/.project",
+		"/D/Davy/codes/mc/mcp751/src/minecraft/Start.java",
+		"/C/Users/Davy/Downloads/zha100",
+		"/C/Users/Davy/AppData/Roaming/.minecraft/versions/1.5.2_forge/1.5.2.json",
+		"/D/Davy/codes/mc/org_launcher/.minecraft/assets/READ_ME_I_AM_VERY_IMPORTANT",
+		"/D/Davy/codes/mc/org_launcher/env.bat",
+		"/C/Users/Davy/AppData/Roaming/.minecraft/versions/1.5.2/1.5.2.json",
+		"/D/Davy/codes/mc/mcp751/runtime/recompile.py",
+		"/D/Davy/codes/mc/1.6_launcher/.minecraft/launcher.src/net/minecraft/launcher/ui/sidebar/login/NotLoggedInForm.java",
+		"/D/Davy/codes/mc/1.6_launcher/env.bat",
+		"/D/Davy/codes/mc/mcp751/runtime/commands.py",
+		"/D/Davy/codes/mc/mcp751/runtime/mcp.py",
+		"/D/Davy/codes/mc/mcp751/runtime/reobfuscate.py",
+		"/D/Davy/codes/mc/mcp751/runtime/decompile.py",
+		"/D/Davy/codes/mc/1.6_launcher/emv.bat",
+		"/D/Davy/codes/mc/mcp751/decompile.bat",
+		"/D/Davy/codes/mc/mcp751/eclipse/Client/bin/lang/tw.davy.skinmod/en_US.lang",
+		"/D/Davy/codes/mc/mcp751/eclipse/Client/bin/lang/tw.davy.skinmod/zh_TW.lang",
+		"/D/Davy/codes/mc/mcp751/conf/client.srg"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bkg",
+			"#",
+			"bgk",
+			"png",
+			"f5",
+			"245",
+			"F5",
+			"0x",
+			"rgb",
+			"bkgrd-color",
+			"bkg",
+			"\"/>\n",
+			"無法連線",
+			"message",
+			"wifi",
+			"wifi_",
+			"vzw_htctethered_notification_title",
+			"common_string_add_contact",
+			"dismiss",
+			"getAppDir",
+			"getMinecraftDir",
+			"bbf",
+			"[0-9]+\\.xml",
+			"52503.xml",
+			"ime",
+			"set_perm ([0-9]+) ([0-9]+) ([0-9]+) SYSTEM:(.+)",
+			"set_perm_recursive ([0-9]+) ([0-9]+) ([0-9]+) ([0-9]+) SYSTEM:(.*)",
+			"symlink toolbox SYSTEM:(.+)",
+			"”",
+			"“",
+			"show_progress\\((.+), (.+)\\)",
+			"show_progress ([0-9.]+) ([0-9.]+)",
+			"onkeydown",
+			"captureMiddleClick",
+			"flipCtrlCmd",
+			"mac",
+			"mac_geMountainLion",
+			"mac_geLion",
+			"chrome",
+			"webkit",
+			"mobile",
+			"ios",
+			"phantom",
+			"khtml",
+			"safari",
+			"opera",
+			"qtwebkit",
+			"ie",
+			"gecko",
+			"StateListener",
+			"urlencode",
+			"rawurlencode",
+			"Spositionfromlocation",
+			"Sposition",
+			"position",
+			"GetRange",
+			"substance",
+			"GetRange",
+			"PositionFromLocation",
+			"DocumentPointFromView",
+			"Find(.*)?position",
+			"SelectionPosition",
+			"Find(.*)?position",
+			"Find.*position",
+			"position",
+			"html",
+			"p",
+			"5",
+			"}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"default.xml",
+			"set_perm($1, $2, $3, \"/system/$4\");",
+			"set_perm_recursive($1, $2, $3, $4, \"/system/$5\");",
+			"symlink(\"toolbox\", \"/system/$1\");",
+			"\"",
+			"show_progress($1, $2);",
+			"show_progress($1, $2)",
+			"html",
+			"}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.lua",
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SublimeLove/Love.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "demo.lua",
+					"settings":
+					{
+						"buffer_size": 441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								413,
+								413
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SublimeLove/Love.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Character.lua",
+					"settings":
+					{
+						"buffer_size": 745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/SublimeLove/Love.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Stone.lua",
+					"settings":
+					{
+						"buffer_size": 240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/SublimeLove/Love.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/rwww/mu/project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true
+}
